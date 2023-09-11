@@ -11,10 +11,13 @@ This project actually contains two projects:
 `$ cd path to the backend folder`
 
 `$ npm install `
+
 `$ npm start `
 
 ` cd path to the frontend folder `
+
 ` $ npm install `
+
 ` $ npm start `
 
 ##### Images of the app:
